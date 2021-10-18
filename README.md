@@ -21,5 +21,7 @@ Pewlette Hackard is an employee company. There a lot of staffs will enter the re
 ## Summary
 1. There are **90,398** roles will need to be filled as the "silver tsunami" begins to make an impact.
 2. Based on our results, there is **no enough** qualifies, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
-3. 
-4. 
+3. Except for the results above, we also need to identify which departments will have more positions need to fill. By sorting the data, the table below shows that **Development (19,348), Production (17,591), and Sales (11,573) departments** will need the most positions to fill in the future.
+- ![The number of retiring current employees by departments](https://github.com/xueying-lin/Pewlett-Hackard-Analysis/blob/59f44c989522c5d227276b880ae273ce4902bc79/Data/number%20of%20retiring%20by%20departments.PNG)
+5. Last, the departments whose manager will retire soon should be put on the priority for the mentorship program. From the table below, **the managers of the Sales and Research departments** will retire soon.
+- ![The department managers who will be retired](https://github.com/xueying-lin/Pewlett-Hackard-Analysis/blob/59f44c989522c5d227276b880ae273ce4902bc79/Data/retiring%20managers.PNG)
